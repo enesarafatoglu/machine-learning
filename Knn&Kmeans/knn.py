@@ -1,4 +1,3 @@
-
 import pandas as pd
 covid=pd.read_csv('qt_dataset.csv')
 covid.head()
