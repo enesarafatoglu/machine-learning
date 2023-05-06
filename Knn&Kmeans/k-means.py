@@ -1,4 +1,3 @@
-
 from sklearn.cluster import KMeans
 from sklearn import datasets
 from sklearn.utils import shuffle
