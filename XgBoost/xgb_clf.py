@@ -1,4 +1,3 @@
-
 #diyabet veri setini yükleme ve özetleme
 import pandas as pd
 import numpy as np
